@@ -1,0 +1,1 @@
+import math\nx1, y1 = map(float, input("Enter coordinates of the first point (x1, y1): ").split())\nx2, y2 = map(float, input("Enter coordinates of the second point (x2, y2): ").split())\ndistance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)\nprint("The Euclidean distance is:", distance)
