@@ -1,1 +1,10 @@
-n = int(input("Enter a positive integer: "))\nif n > 1:\n    for i in range(2, int(n ** 0.5) + 1):\n        if n % i == 0:\n            print("The number is not prime.")\n            break\n    else:\n        print("The number is prime.")\nelse:\n    print("The number is not prime.")
+n = int(input("Enter a positive integer: "))
+if n > 1:
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            print("The number is not prime.")
+            break
+    else:
+        print("The number is prime.")
+else:
+    print("The number is not prime.")

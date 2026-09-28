@@ -1,1 +1,3 @@
-color_list = ["Red", "Green", "White", "Black"]\nprint("First color:", color_list[0])\nprint("Last color:", color_list[-1])
+color_list = ["Red", "Green", "White", "Black"]
+print("First color:", color_list[0])
+print("Last color:", color_list[-1])

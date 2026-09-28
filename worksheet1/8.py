@@ -1,1 +1,4 @@
-a = float(input("Enter first number: "))\nb = float(input("Enter second number: "))\na, b = b, a\nprint("After swapping:\nFirst number:", a, "\nSecond number:", b)
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+a, b = b, a
+print("After swapping:\nFirst number:", a, "\nSecond number:", b)

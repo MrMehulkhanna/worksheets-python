@@ -1,1 +1,6 @@
-print("Twinkle, twinkle, little star,")\nprint("How I wonder what you are!")\nprint("Up above the world so high,")\nprint("Like a diamond in the sky.")\nprint("Twinkle, twinkle, little star,")\nprint("How I wonder what you are")
+print("Twinkle, twinkle, little star,")
+print("How I wonder what you are!")
+print("Up above the world so high,")
+print("Like a diamond in the sky.")
+print("Twinkle, twinkle, little star,")
+print("How I wonder what you are")
